@@ -1,4 +1,5 @@
-﻿// UML_HW_07_Svyrydov.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// Develop a notification system for informing users about new messages using the Observer pattern. 
+// Users can subscribe to receive notifications, and when a new message appears, all subscribed users should receive a notification.
 //
 
 
